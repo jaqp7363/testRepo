@@ -11,7 +11,7 @@ public class DemoApplication {
 	}
 
 	public void test() {
-
+		System.out.println(1);
 	}
 
 }
